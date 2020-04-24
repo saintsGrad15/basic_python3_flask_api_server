@@ -1,0 +1,2 @@
+# Pin to a version after installation
+Flask
